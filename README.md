@@ -1,11 +1,11 @@
-# Microsoft-R
-# Analyzing Big Data with Microsoft R Saint Louis RUG Presentation
-# The following is designed to set up a R environment in order to be able to run the
-# R markdown presentation on Analyzing Big Data with Microsoft R
-# Visual Studio Enterprise 2015
-# R Server 3.3.2
+### Microsoft-R
+#### Analyzing Big Data with Microsoft R Saint Louis RUG Presentation
+#### The following is designed to set up a R environment in order to be able to run the
+#### R markdown presentation on Analyzing Big Data with Microsoft R
+#### Visual Studio Enterprise 2015
+#### R Server 3.3.2
 
-Prerequisites
+#### Prerequisites
 1. R Server or R client. I have not tested this with R client but it should get you in the ballpark.
 2. NYC First 6 months of data from here
  2016 Taxi data from NY.
@@ -17,7 +17,7 @@ http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
 6. Install pandoc from pandoc.org
 7. The necessary libraries can be sourced from SetupEnvironment.R
 
-Preview the markdown document.
+#### Preview the markdown document.
 
 Todd Robinson
 eMail: todd@biarachitect.com
